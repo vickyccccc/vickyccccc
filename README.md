@@ -2,8 +2,6 @@
 
 I'm interested in coding.
 
-https://github.com/csci3251-2023/Say-Hi/issues/82
-
 <!--
 **vickyccccc/vickyccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
